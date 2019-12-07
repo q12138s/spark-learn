@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="spark">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\admin\IdeaProjects\spark\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="spark_day01">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\admin\IdeaProjects\spark\spark_day01\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="spark_day04">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\admin\IdeaProjects\spark\spark_day04\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="spark_day05">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\admin\IdeaProjects\spark\spark_day05\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="spark_day06">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\admin\IdeaProjects\spark\spark_day06\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="spark_day07">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\admin\IdeaProjects\spark\spark_day07\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
