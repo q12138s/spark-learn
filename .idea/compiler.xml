@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spark_day01" />
         <module name="spark_day07" />
         <module name="spark_day06" />
         <module name="spark_day05" />
         <module name="spark_day04" />
+        <module name="spark_day01" />
+        <module name="sparkML_day02" />
       </profile>
     </annotationProcessing>
   </component>
