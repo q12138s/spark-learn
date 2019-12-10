@@ -12,6 +12,7 @@
         <module name="spark_day04" />
         <module name="spark_day01" />
         <module name="sparkML_day02" />
+        <module name="sparkML_day03" />
       </profile>
     </annotationProcessing>
   </component>
