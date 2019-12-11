@@ -49,5 +49,11 @@
         <parameter value="C:\Users\admin\IdeaProjects\spark\sparkML_day03\target/.scala_dependencies" />
       </parameters>
     </profile>
+    <profile name="Maven 9" modules="sparkML_day04">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\admin\IdeaProjects\spark\sparkML_day04\target/.scala_dependencies" />
+      </parameters>
+    </profile>
   </component>
 </project>
