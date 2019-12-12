@@ -17,6 +17,7 @@
         <module>sparkML_day02</module>
         <module>sparkML_day03</module>
         <module>sparkML_day04</module>
+        <module>sparkML_day05</module>
     </modules>
 
     <!-- 指定仓库位置，依次为aliyun、cloudera和jboss仓库 -->

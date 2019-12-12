@@ -7,6 +7,12 @@
         <parameter value="C:\Users\admin\IdeaProjects\spark\target/.scala_dependencies" />
       </parameters>
     </profile>
+    <profile name="Maven 10" modules="sparkML_day05">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\admin\IdeaProjects\spark\sparkML_day05\target/.scala_dependencies" />
+      </parameters>
+    </profile>
     <profile name="Maven 2" modules="spark_day01">
       <parameters>
         <parameter value="-dependencyfile" />
